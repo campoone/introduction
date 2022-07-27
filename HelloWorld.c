@@ -2,8 +2,8 @@
 
 int main(){
 
-    print("Hello World");
-    print("Now we will start programming in C");
+    printf("Hello World");
+    printf("Now we will start programming in C");
+    printf("Are you ready?");
     return 0;
-
 }
